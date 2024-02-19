@@ -12,8 +12,25 @@ React - component based approach
 
 component - piece of UI/webpage
 
-BENEFITS
+BENEFITS :-
 reuseability
 less line of code
 more readable
 maintainable
+
+competitor :-
+Angular,vue,sevelte
+
+function which is returning some HTML
+
+function Header(){
+return (<div></div>)
+}
+
+A project which will be internally having the react library
+
+create-react-app
+
+parcel
+
+vite - js build tool
