@@ -41,3 +41,9 @@ node js - js runtime environment
 !!!! imp
 SPA - single page application
 because there is only one index.html file in whole project.
+
+jsx - Javascript XML
+
+jsx - browser not no what is jsx
+so, internally it is created like this
+document.createElement('div')
