@@ -47,3 +47,5 @@ jsx - Javascript XML
 jsx - browser not no what is jsx
 so, internally it is created like this
 document.createElement('div')
+
+babel converts jsx into js
