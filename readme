@@ -34,3 +34,6 @@ create-react-app
 parcel
 
 vite - js build tool
+
+must install node js
+node js - js runtime environment
